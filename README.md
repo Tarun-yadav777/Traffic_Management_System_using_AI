@@ -1,6 +1,6 @@
 # Traffic Management System using AI (Object Detection)
 
-![Project Image]()
+![Project Image](https://github.com/Tarun-yadav777/Traffic_Management_System_using_AI/blob/main/static/test1.PNG)
 
 
 > This is a ReadMe template to help save you time and effort.
@@ -116,23 +116,23 @@ python detect_video.py --weights ./checkpoints/yolov4-416 --size 416 --model yol
 ## Demo 
 - Picture of the Final GUI of Object Detection<br>
 
-![Project Image]()
+![Project Image](https://github.com/Tarun-yadav777/Traffic_Management_System_using_AI/blob/main/static/test1.PNG)
 
 - Picture of GUI in action<br>
 
-![Project Image]()
+![Project Image](https://github.com/Tarun-yadav777/Traffic_Management_System_using_AI/blob/main/static/test2.PNG)
 
 - Picture of Detection on pic
 
-![Project Image]()
+![Project Image](https://github.com/Tarun-yadav777/Traffic_Management_System_using_AI/blob/main/static/detectionpic.png)
 
 - Detection on Video
 
-![Project Image]()
+![Project Image](https://github.com/Tarun-yadav777/Traffic_Management_System_using_AI/blob/main/static/detectionvid.gif)
 
 - Tracking on Video
 
-![Project Image]()
+![Project Image](https://github.com/Tarun-yadav777/Traffic_Management_System_using_AI/blob/main/static/tracking.gif)
 
 [Back To The Top](#read-me-template)
 
