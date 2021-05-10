@@ -1,6 +1,6 @@
 # Traffic Management System using AI (Object Detection)
 
-![Project Image]()
+![Project Image](https://github.com/Tarun-yadav777/Traffic_Management_System_using_AI/blob/main/static/test1.PNG)
 
 
 > This is a ReadMe template to help save you time and effort.
