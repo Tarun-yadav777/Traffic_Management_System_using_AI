@@ -128,7 +128,7 @@ python detect_video.py --weights ./checkpoints/yolov4-416 --size 416 --model yol
 
 - Detection on Video
 
-![Project Image]https://github.com/Tarun-yadav777/Traffic_Management_System_using_AI/blob/main/static/detectionvid.gif()
+![Project Image](https://github.com/Tarun-yadav777/Traffic_Management_System_using_AI/blob/main/static/detectionvid.gif)
 
 - Tracking on Video
 
