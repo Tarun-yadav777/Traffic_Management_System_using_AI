@@ -117,11 +117,13 @@ python detect_video.py --weights ./checkpoints/yolov4-416 --size 416 --model yol
 ## Demo 
 - Picture of the Final GUI of Object Detection<br>
 
-![Project Image](https://github.com/Tarun-yadav777/Traffic_Management_System_using_AI/blob/main/static/test1.PNG)
+
+<img src="https://github.com/Tarun-yadav777/Traffic_Management_System_using_AI/blob/main/static/test1.PNG"  width="600" height="700"  /><br> 
 
 - Picture of GUI in action<br>
 
-![Project Image](https://github.com/Tarun-yadav777/Traffic_Management_System_using_AI/blob/main/static/test2.PNG)
+<img src="https://github.com/Tarun-yadav777/Traffic_Management_System_using_AI/blob/main/static/test2.PNG"  width="600" height="700"  /><br>
+
 
 - Picture of Detection on pic
 
