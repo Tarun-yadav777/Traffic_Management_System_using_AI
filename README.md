@@ -1,6 +1,6 @@
 # Traffic Management System using AI (Object Detection)
 
-<img src="https://github.com/Tarun-yadav777/Traffic_Management_System_using_AI/blob/main/static/test1.PNG"  width="500" height="800"  /><br> 
+<img src="https://github.com/Tarun-yadav777/Traffic_Management_System_using_AI/blob/main/static/test1.PNG"  width="600" height="700"  /><br> 
 
 
 
